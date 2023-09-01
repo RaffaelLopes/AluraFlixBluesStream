@@ -1,0 +1,25 @@
+.cabecalho {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1.1em 20em;
+    padding-left: 100px;
+    background-color: var(--preto);
+}
+
+/* Estilizar o texto no cabeçalho */
+.logoText {
+    display: flex;
+    align-items: center;
+    font-size: 24px;
+    color: red;
+    text-decoration: none;
+    margin-left: 20px;
+}
+
+/* Estilizar a imagem do logo */
+.logoImage {
+    width: 40px;
+    height: auto;
+    margin-right: 10px;
+}
