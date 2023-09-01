@@ -1,3 +1,3 @@
 # Getting Started with Create React App
 
-Visite:  
+Visite:  https://alura-flix-blues-stream.vercel.app/
